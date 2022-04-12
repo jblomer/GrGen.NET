@@ -1,3 +1,0 @@
-enum ET {
-	foo, bar, baz, qux
-}

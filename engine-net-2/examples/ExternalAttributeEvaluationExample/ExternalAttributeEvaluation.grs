@@ -1,5 +1,0 @@
-new graph ExternalAttributeEvaluation
-
-exec init2
-
-debug exec r

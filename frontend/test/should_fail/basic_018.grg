@@ -1,4 +1,0 @@
-rule r(-e:Edge->) {
-  -e:Edge->;
-  modify { }
-}

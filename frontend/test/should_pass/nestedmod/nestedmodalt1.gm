@@ -1,6 +1,0 @@
-#using "nestedmod/nestednestedmod/nestedmodbase.gm"
-
-node class Foo extends Common
-{
-	foo : int;
-}

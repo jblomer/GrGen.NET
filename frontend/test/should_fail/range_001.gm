@@ -1,6 +1,0 @@
-node class A;
-
-node class B;
-
-edge class E
-     connect A[*] -> B[4:1];

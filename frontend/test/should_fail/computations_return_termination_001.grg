@@ -1,8 +1,0 @@
-var ::glob:int;
-
-function one() : int
-{
-	def var x:int = 42;
-}
-
-

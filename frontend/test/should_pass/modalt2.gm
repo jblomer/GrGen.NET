@@ -1,6 +1,0 @@
-using modbase;
-
-node class Bar extends Common
-{
-	bar : boolean;
-}

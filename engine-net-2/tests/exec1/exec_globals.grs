@@ -1,5 +1,0 @@
-new graph "exec1/exec1.grg"
-
-xgrs {{x}}
-xgrs (::y)=R5 ;> R2(y)
-quit

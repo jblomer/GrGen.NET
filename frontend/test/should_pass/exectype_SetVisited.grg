@@ -1,8 +1,0 @@
-using exectype;
-
-rule r
-{
-	modify  {
-		exec(x:A=::varia && i:int=0 && y:boolean=true && {x.visited[i]=y});
-	}
-}

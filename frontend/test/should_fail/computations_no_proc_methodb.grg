@@ -1,6 +1,0 @@
-using computations_no_proc_methodb;
-
-procedure foo()
-{
-	return;
-}

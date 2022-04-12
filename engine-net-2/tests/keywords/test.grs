@@ -1,8 +1,0 @@
-new graph keywords/test
-new n1:"type"()
-new n2:"attributes"()
-show num nodes "type"
-show num nodes "attributes"
-n1.validate
-n2.show
-quit

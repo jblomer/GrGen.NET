@@ -1,5 +1,0 @@
-rule r {
-	:Node [prio=42];
-
-	modify {}
-}

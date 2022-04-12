@@ -1,6 +1,0 @@
-rule r {
-  x:Node;
-  modify{
-    emit("Hello World!");
-  }
-}

@@ -1,7 +1,0 @@
-dangling exact rule r {
-	x:Node;
-
-	replace {
-	}
-}
-

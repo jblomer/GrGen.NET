@@ -1,7 +1,0 @@
-rule r(?-e:UEdge-?)
-{
-    x:Node <-e- y:Node;
-
-    replace {
-    }
-}

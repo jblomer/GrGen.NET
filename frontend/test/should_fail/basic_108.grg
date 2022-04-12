@@ -1,5 +1,0 @@
-rule dummy {
-  replace {
-    . -:Edge-> ;  // new edge without incident nodes is impossible
-  }
-}

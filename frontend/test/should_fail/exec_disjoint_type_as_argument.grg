@@ -1,8 +1,0 @@
-using deep_model_001;
-
-rule r(y : A) {
-  n : B;
-  modify{
-    exec(r(n)); // disjoint type as argument
-  }
-}

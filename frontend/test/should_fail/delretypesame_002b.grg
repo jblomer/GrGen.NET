@@ -1,1 +1,0 @@
-rule r{	n:Node;		optional {					modify {			m:Node<n>;		}	}		modify {		delete(n);	}}

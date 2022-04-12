@@ -1,8 +1,0 @@
-node class Graph
-{
-	sub:graph;
-}
-
-node class RedGraph extends Graph;
-node class GreenGraph extends Graph;
-node class BlueGraph extends Graph;

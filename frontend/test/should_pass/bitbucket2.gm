@@ -1,5 +1,0 @@
-external function TestFunction():int;
-external procedure TestProcedure();
-
-external function TestFunction2(string):int;
-external procedure TestProcedure2(string) : (int);

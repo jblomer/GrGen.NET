@@ -1,5 +1,0 @@
-node class a {
-	id: e;
-}
-enum e { eItem }
-

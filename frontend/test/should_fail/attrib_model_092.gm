@@ -1,9 +1,0 @@
-enum AAA {
-	e1,
-	e2
-}
-
-node class AAA {
-  value:AAA;
-}
-

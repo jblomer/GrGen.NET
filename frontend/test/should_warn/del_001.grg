@@ -1,9 +1,0 @@
-rule r {
-	x: Node;
-	y: Node;
-
-	modify {
-		x;
-		delete(x);
-	}
-}

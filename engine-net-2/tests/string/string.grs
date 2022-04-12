@@ -1,5 +1,0 @@
-new graph string/string
-
-exec t("foo bar foo")
-
-quit

@@ -1,7 +1,0 @@
-rule r {
-
-	replace {
-		x : Node;
-	}
-}
-

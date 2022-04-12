@@ -1,8 +1,0 @@
-node class Foo {
-	Foo : int;
-}
-
-edge class Bar {
-	Bar : string;
-}
-

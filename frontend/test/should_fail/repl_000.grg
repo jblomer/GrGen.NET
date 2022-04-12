@@ -1,7 +1,0 @@
-rule r {
-	a:Node;
-	
-	modify(b:Node) {
-		a-->b;
-	}
-}

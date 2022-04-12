@@ -1,7 +1,0 @@
-using model_init;
-
-procedure proc(b:Node) : (B)
-{
-	return(b);
-}
-

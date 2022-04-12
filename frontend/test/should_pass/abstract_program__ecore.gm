@@ -1,7 +1,0 @@
-package _abstractPrograms
-{
-	node class _Task {
-		_name : string;
-	}	
-}
-

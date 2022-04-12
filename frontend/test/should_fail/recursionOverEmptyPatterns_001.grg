@@ -1,9 +1,0 @@
-test t
-{	
-	:P();
-}
-
-pattern P
-{
-	:P();
-}

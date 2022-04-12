@@ -1,3 +1,0 @@
-node class State {
-	name : string;
-}

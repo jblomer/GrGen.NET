@@ -1,2 +1,0 @@
-node class Foo;
-node class Bar extends Foo;

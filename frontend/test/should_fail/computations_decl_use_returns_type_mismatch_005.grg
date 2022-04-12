@@ -1,7 +1,0 @@
-using model_init;
-
-procedure proc(-e:Edge->) : (E1)
-{
-	return(e);
-}
-

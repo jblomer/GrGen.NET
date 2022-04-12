@@ -1,6 +1,0 @@
-test t {
-  x:Node;
-  negative {
-    x:Node;
-  }
-}

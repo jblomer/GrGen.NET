@@ -1,9 +1,0 @@
-rule r {
-	if{ false; }
-	negative {
-	}
-
-	modify {
-	}
-}
-

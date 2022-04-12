@@ -1,8 +1,0 @@
-new graph inline/inline
-
-xgrs createPure[50]
-xgrs createWithBeginEnd[50]
-
-xgrs [inline6]
-
-quit

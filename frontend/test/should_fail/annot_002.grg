@@ -1,5 +1,0 @@
-rule r {
-	[prio=42] --> .;
-
-	modify {}
-}

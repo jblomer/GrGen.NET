@@ -1,9 +1,0 @@
-using attrib_model_001;
-
-rule r {
-	-e:EINT->;
-
-	modify {
-		- f:EBOOL<e> ->;
-	}
-}

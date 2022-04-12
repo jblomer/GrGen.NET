@@ -1,7 +1,0 @@
-rule r {
-	if { true; }
-
-	replace {
-	}
-}
-

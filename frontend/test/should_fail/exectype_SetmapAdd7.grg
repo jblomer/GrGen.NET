@@ -1,8 +1,0 @@
-using exectype;
-
-rule r
-{
-	modify  {
-		exec(u:map<AA,HH> =map<AA,HH> && v:A=varia && w:H=vario && {u.add(v,w)});
-	}
-}

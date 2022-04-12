@@ -1,2 +1,0 @@
-abstract node class AbstractNode;
-node class NonAbstractNode extends AbstractNode;

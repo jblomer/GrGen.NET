@@ -1,7 +1,0 @@
-rule negTest
-{
-	replace {
-		negative {
-		}
-	}
-}

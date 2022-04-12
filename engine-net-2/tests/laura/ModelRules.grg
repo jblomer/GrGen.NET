@@ -1,9 +1,0 @@
-#using "MyModel.gm"
-
-rule foo {
-	n:N;
-	
-	modify {
-		nn:N;
-	}
-}

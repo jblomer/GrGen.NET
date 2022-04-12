@@ -1,8 +1,0 @@
-node class MyNode {
-    key:int;
-}
-index MyNode_Key { MyNode.key }
-
-node class MyOtherNode {
-    foreignKey:int;
-}

@@ -1,6 +1,0 @@
-using enum_model_008;
-
-rule r {
-
-	modify {}
-}

@@ -1,9 +1,0 @@
-new graph "rulallcall/ruleallcall"
-
-exec init
-
-exec t
-
-exec tr
-
-quit

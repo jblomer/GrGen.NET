@@ -1,5 +1,0 @@
-rule r {
-	replace {
-		x:Node <-e:AEdge-> y:Node;
-	}
-}

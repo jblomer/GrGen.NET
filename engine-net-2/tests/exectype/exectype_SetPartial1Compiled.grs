@@ -1,8 +1,0 @@
-new graph "exectype/exectype"
-
-new n:AA
-
-xgrs SetPartial1(::n)
-show var x
-show var y
-quit

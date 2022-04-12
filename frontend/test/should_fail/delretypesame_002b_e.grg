@@ -1,1 +1,0 @@
-rule r{	-e:Edge->;		optional {					modify {			-f:Edge<e>->;		}	}		modify {		delete(e);	}}

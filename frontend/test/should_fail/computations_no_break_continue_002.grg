@@ -1,7 +1,0 @@
-function foo() : boolean
-{
-	if(true) {
-		break;
-	}
-	return(true);
-}

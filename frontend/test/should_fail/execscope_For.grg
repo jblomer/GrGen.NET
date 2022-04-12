@@ -1,8 +1,0 @@
-using exectype;
-
-rule r
-{
-	modify  {
-		exec(x:string="Gnampf!" ;> for{x:int in y; z=x});
-	}
-}

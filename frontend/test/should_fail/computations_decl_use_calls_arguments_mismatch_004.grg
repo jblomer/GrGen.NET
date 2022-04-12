@@ -1,7 +1,0 @@
-procedure call()
-{
-	def var b:boolean;
-	b,b = func(b);
-}
-
-

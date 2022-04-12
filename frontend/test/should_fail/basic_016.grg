@@ -1,3 +1,0 @@
-test t(x:Node) {
-  x:Node;
-}

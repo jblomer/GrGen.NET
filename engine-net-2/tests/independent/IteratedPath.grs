@@ -1,9 +1,0 @@
-new graph independent/Independent
-
-xgrs (::beg,::end)=createIterated
-
-xgrs findChainPlusChainToInt(::beg,::end)
-
-xgrs findChainPlusChainToIntIndependent(::beg,::end)
-
-quit

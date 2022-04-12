@@ -1,8 +1,0 @@
-using basic_model_002;
-
-rule dummy {
-  i:A;
-  if { !(typeof(i)>NOTTHERE); }
-  replace {
-  }
-}

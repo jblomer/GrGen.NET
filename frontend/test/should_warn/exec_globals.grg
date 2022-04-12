@@ -1,6 +1,0 @@
-rule Foo
-{
-    replace {
-		exec({{x}});
-    }
-}

@@ -1,5 +1,0 @@
-node class DumpNode {
-	id:int;
-}
-
-edge class DumpEdge;

@@ -1,6 +1,0 @@
-#using "nestedmod/nestednestedmod/nestedmodbase.gm"
-
-node class Bar extends Common
-{
-	bar : boolean;
-}

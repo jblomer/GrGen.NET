@@ -1,8 +1,0 @@
-node class A {
-	x: int;
-}
-
-enum te {
-	a = A.x,
-	b
-}

@@ -1,7 +1,0 @@
-rule r {
-	n[prio=10000] : Node;
-
-	modify {
-	}
-}
-

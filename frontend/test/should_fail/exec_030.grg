@@ -1,6 +1,0 @@
-rule r {
-  modify{
-    y --> y;
-    exec( (y:Node)=r ); // y cannot leave exec scope
-  }
-}

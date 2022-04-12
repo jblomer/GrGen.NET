@@ -1,9 +1,0 @@
-node class A
-{
-	intValue: int;
-	stringValue: string;
-	intDeque: deque<int>;
-	stringDeque: deque<string>;
-	const constIntDeque: deque<int>;
-	const constStringDeque: deque<string>;
-}

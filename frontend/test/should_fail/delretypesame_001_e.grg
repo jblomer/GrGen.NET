@@ -1,1 +1,0 @@
-rule r{	-e:Edge->;		alternative {		case {						modify {				delete(e);			}		}	}		modify {		-f:Edge<e>->;	}}

@@ -1,5 +1,0 @@
-node class N;
-node class NN;
-
-edge class many_to
-	connect N[*] -- NN;

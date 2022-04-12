@@ -1,4 +1,0 @@
-new graph "yield/yield.grg"
-exec (::r)=testyield
-show var r
-quit

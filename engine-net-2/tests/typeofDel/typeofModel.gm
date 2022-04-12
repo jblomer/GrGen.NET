@@ -1,5 +1,0 @@
-node class A;
-node class B;
-
-edge class EA;
-edge class EB extends EA;

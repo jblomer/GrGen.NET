@@ -1,4 +1,0 @@
-test r {
-    a:typeof(b);
-    b:typeof(a);
-}

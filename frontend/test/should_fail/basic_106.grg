@@ -1,7 +1,0 @@
-using basic_model_002;
-
-rule dummy {
-  replace {
-    :Node -:AbsE-> :Node;
-  }
-}

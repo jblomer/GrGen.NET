@@ -1,7 +1,0 @@
-rule r : (Node) {
-  n : Node;
-  modify {
-    return(n);
-  }
-}
-

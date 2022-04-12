@@ -1,9 +1,0 @@
-using exectype;
-
-rule r
-{
-	modify  {
-		exec({x:A=@(lalala)});
-		exec({x:A=@("lalala")});
-	}
-}

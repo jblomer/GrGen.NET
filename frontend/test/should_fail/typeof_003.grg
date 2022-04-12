@@ -1,6 +1,0 @@
-rule r {
-    modify {
-        a:typeof(b);
-        b:typeof(a);
-    }
-}

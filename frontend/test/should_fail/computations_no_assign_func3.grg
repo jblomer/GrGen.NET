@@ -1,7 +1,0 @@
-using computations_no_assign_func3;
-
-function bar(n:N) : boolean
-{
-	n.visited[0] = true;
-	return(n.visited[0]);
-}

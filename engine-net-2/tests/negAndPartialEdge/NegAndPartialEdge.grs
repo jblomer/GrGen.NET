@@ -1,8 +1,0 @@
-new graph negAndPartialEdge/NegAndPartialEdge
-
-xgrs init
-xgrs [negAndPartialEdgeNoNodeTwoNodes]
-xgrs [negAndPartialEdgeNoNodeOneNodeTwoNodes]
-xgrs [negAndPartialEdgeOneNodeTwoNodes]
-
-quit

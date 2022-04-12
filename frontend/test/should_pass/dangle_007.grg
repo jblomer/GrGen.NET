@@ -1,3 +1,0 @@
-test r(-a:Edge->) {
-    y:Node -a-> x:Node;
-}

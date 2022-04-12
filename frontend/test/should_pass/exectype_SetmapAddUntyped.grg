@@ -1,8 +1,0 @@
-using exectype;
-
-rule r
-{
-	modify  {
-		exec({::x.add(::y)} && {::u.add(::v,::w)});
-	}
-}

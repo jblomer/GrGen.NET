@@ -1,7 +1,0 @@
-rule r {
-	x:Node ?--? y:Node;
-
-	modify {
-	}
-}
-

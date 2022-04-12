@@ -1,7 +1,0 @@
-using from_storage;
-
-test t1(ref m:map<Node, Node>)
-{
-	x:Node{m[x]};
-}
-

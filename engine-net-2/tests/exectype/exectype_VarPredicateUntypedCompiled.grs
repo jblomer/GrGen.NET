@@ -1,5 +1,0 @@
-new graph "exectype/exectype"
-xgrs VarPredicateUntyped
-show var x
-show var y
-quit

@@ -1,2 +1,0 @@
-abstract node class AbstractNode;
-abstract edge class AbstractEdge;

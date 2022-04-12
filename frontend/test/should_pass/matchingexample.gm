@@ -1,4 +1,0 @@
-node class N
-{
-	i:int = 42;
-}
